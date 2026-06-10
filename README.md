@@ -1,7 +1,15 @@
 # 🔥 Fire Detection Alarm System v2.0
 
-A real-time fire detection system using OpenCV and HSV colour masking.  
-Developed by **Pratik Mishra**.
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3.8+-yellow?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.x-blue?style=for-the-badge&logo=opencv&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
+**A highly optimized real-time fire detection system utilizing computer vision, HSV color masking, and dual-layer verification to eliminate false triggers. 🚨**
+
+</div>
 
 ---
 
