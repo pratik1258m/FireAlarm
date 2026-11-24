@@ -1,2 +1,47 @@
+# Python bytecode and cache
 __pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
 .venv/
+env/
+venv/
+ENV/
+
+# OpenWA WhatsApp credentials & session storage (CRITICAL: Do not commit)
+session.data.json
+*.data.json
+.open-wa/
+.wwebjs_auth/
+.wwebjs_cache/
+
+# Incident captures, video recordings & runtime artifacts
+captures/*
+!captures/.gitkeep
+recordings/*
+!recordings/.gitkeep
+fire_recordings/*
+!fire_recordings/.gitkeep
+fire_recordings/
+
+# Incident log files (keep directory tracked via .gitkeep)
+logs/*.csv
+logs/*.json
+!logs/.gitkeep
+
+# Temporary & local preview files
+whatsapp_qr.html
+*.tmp
+*.log
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+.cloud-attachments/
+.freebuff/
